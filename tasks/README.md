@@ -4,11 +4,7 @@
 
 \# trainer name - charanya
 
-
-
-Tasks Bussiness Requirements Document (BRD),
-
-software Requirements document ( SRD ) , Memorandum of Understanding ( MOU ), 
+Tasks Bussiness Requirements Document (BRD), software Requirements document ( SRD ) , Memorandum of Understanding ( MOU ), 
 
 
 
